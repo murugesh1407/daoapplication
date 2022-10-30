@@ -1,4 +1,4 @@
-# spring-boot-backend
+# daoapplication
 This application helps to demonstrate spring boot and Spring JPA CRUD concpets
 
 There are 5 apis created as a part of this project
